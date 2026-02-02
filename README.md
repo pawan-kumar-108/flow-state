@@ -59,11 +59,15 @@ The source code is available in C++, JavaScript, and Python.
 
 **🛠️ Technical Implementation**:
 ---------------
+
 Built With:
 
 HTML5 Canvas - High-performance 2D rendering
+
 Vanilla JavaScript - Pure JS, no frameworks needed
+
 Physics Simulation - Newtonian attraction/repulsion forces
+
 Spatial Optimization - Efficient particle-particle interaction calculations
 
 
