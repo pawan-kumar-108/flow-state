@@ -1,6 +1,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/pawan-kumar-108/atomic-simulator)
 
-# Atomic Simulation 
+# Atomic Simulator
 A program to simulate primitive Artificial Life using simple rules of attraction or repulsion among atom-like particles, producing complex self-organzing life-like patterns. Excluding the GUI elements, the code is less than a page. 
 
 You don't need to understand particle physics to watch something beautiful happen. 
